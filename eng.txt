@@ -1,0 +1,116 @@
+Chaand Chopra
+
+Versatile and analytic individual with a practical hands-on approach,
+ambitiously interested in computers, mathematics and statistics and
+their intersection areas like Machine Learning.
+
+EDUCATION
+
+University of Hyderabad, Hyderabad — M.C.A.
+2017
+
+Master’s in Computer Application
+C.G.P.A.: 7.78/10
+
+Indira Gandhi National Open University , Delhi —PGDAST
+2016
+
+Post Graduate Diploma in Applied Statistical Techniques (Specialization in Industrial
+Statistics)
+Percentage: 81%
+
+University of Delhi, New Delhi — B.Sc.
+2013
+
+B.Sc.(H) Mathematics
+Percentage: 76%
+
+New Era Public School(CBSE), New Delhi — Class 12
+2012
+
+Class 12 in Science Stream(English, Computer Science, Physics, Chemistry, Mathematics)
+Percentage: 79%
+
+TECHNICAL KNOWLEDGE
+
+Language C, Java, Python
+
+Web Development HTML, CSS3, JavaScript
+
+Database mySQL, MongoDB
+
+Operating Systems Linux(Debian), Windows
+
+Statistical/ML Regression, Clustering, Time-Series Analysis
+
+BI/ Analytics Tool MS Excel, Tableau
+
+ML Tools Numpy, Pandas, Matplotlib, Scikit-learn, Seaborn
+
+Neural Network Single and Multi layer Perceptron, Radial Basis Function,
+
+SOM, Recurrent Neural Network, Boltzmann Machine
+
+R No. 9, MH-L, University of Hyd,
+C.R. Rao Road, Gachibowli,
+Hyderabad-500046
+
+Ph: +91-8800140057
+Email:chaandchopra@gmail.com
+
+SKILLS
+
+Programming
+Statistical Analysis
+Machine Learning
+
+Neural Networks
+
+AWARDS
+3rd in “Bits Spin” Event at Version
+
+(MCA Tech-Fest) held at NIT,
+Tiruchirappalli
+
+A+ in French Course offered by
+University of Hyderabad
+
+INTEREST/HOBBIES
+
+Reading Books
+
+LANGUAGES
+
+English, Hindi, French, Punjabi(Oral)
+PROJECTS
+
+Simpletron Machine Language— C
+
+A program to simulate a fictional computer. All information in the Simpletron is handled
+
+in terms of words.
+
+Link: https://github.com/chaandchopra/Simpletron-1
+
+UoH Bus Android Application— Android Studio
+
+Application used to tells the timing of next upcoming shuttle bus at your location and
+
+displays bus time table in well organised way.
+
+Link:
+
+#METOO Blog Website— CSS, HTML, JSP, Javascript
+
+Created a Blog Website from scratch titled MeToo which help user to post anonymously.
+
+Link: https://github.com/chaandchopra/blog
+
+Single Layer Perceptron— C
+
+Implemented Single Layer Perceptron from faster classification and generic Python
+
+implementation.
+
+Link: https://github.com/chaandchopra/SingleLayerPerceptron
+
